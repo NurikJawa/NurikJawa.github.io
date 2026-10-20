@@ -45,7 +45,7 @@
  compareRange?.addEventListener('input',()=>{const value=Number(compareRange.value);compareStage.style.setProperty('--split',value+'%');compareControl.querySelector('output').value=value+'%';});
  let seasonRequest=0;
  document.querySelectorAll('[data-season]').forEach(button=>button.addEventListener('click',()=>{
-  const name=button.dataset.season;const stage=document.querySelector('[data-season-stage]');const image=stage.querySelector('img');const ticket=++seasonRequest;
+  const name=button.dataset.season;const stage=document.querySelector('[data-season-stage]');const image=stage.querySelector('.season-image');const ticket=++seasonRequest;
   const preload=new Image();preload.onload=()=>{if(ticket!==seasonRequest)return;image.src=preload.src;image.alt=seasons[name][0];const coordinate=stage.querySelector('.season-coordinate');if(coordinate)coordinate.innerText=String(Object.keys(seasons).indexOf(name)+1).padStart(2,'0')+' / 04\nSEASON STUDY';if(!reduced.matches)image.animate([{opacity:.45,transform:'scale(1.025)'},{opacity:1,transform:'scale(1)'}],{duration:650,easing:'cubic-bezier(.2,.75,.2,1)'});stage.querySelector('[data-season-title]').textContent=seasons[name][0];stage.querySelector('[data-season-description]').textContent=seasons[name][1];const label=stage.querySelector('[data-compare-season]');if(label)label.textContent={winter:'Зима',spring:'Весна',summer:'Лето',autumn:'Осень'}[name]};preload.onerror=()=>notify('Не удалось загрузить кадр. Попробуй ещё раз.');preload.src=`/assets/v120/${name}.webp`;
   document.querySelectorAll('[data-season]').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button))});
  }));
