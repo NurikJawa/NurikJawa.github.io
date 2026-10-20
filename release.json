@@ -1,0 +1,12 @@
+{
+  "version": "1.2.0",
+  "minecraft": "1.21.11",
+  "platform": "Windows x64",
+  "filename": "Andromeda.exe",
+  "bytes": 769550336,
+  "sha256": "326180DD34EADAD76DF8D7950A2E3958501392DB196A358148D8F31599C53826",
+  "url": "https://github.com/NurikJawa/andromeda-visuals-releases/releases/download/v1.2.0/Andromeda.exe",
+  "telegramName": "AndromedaVisuals",
+  "telegramUrl": null,
+  "discordUrl": null
+}

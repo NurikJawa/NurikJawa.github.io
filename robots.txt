@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nurikjawa.github.io/sitemap.xml

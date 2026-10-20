@@ -1,0 +1,267 @@
+{
+  "winter": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\winter.png",
+    "sha256": "c804a33c288523e218145a99d47211fe4f95634b48afe88dc0eea4d3e2c96f02"
+  },
+  "spring": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\spring.png",
+    "sha256": "097df06748c55cd4b80fd14272dc03765f32c5350587f8caa914e8da8df39ca4"
+  },
+  "summer": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\summer.png",
+    "sha256": "c5ce98f3628250e4405c8cfad80c7b7ad60aae465f1fce4ccf3c830d49e5475e"
+  },
+  "autumn": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\autumn.png",
+    "sha256": "73a9e41e2228b20c406c610a5824e7dd57c75818fbd1ae3c5746f2f9c940877c"
+  },
+  "night": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\night.png",
+    "sha256": "f25bd9929e04dfa0917567b7b1c97afbb923efda601de2bdbec3abf3f49cc148"
+  },
+  "hand-shader": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\hand-shader.png",
+    "sha256": "82e3d60f0f16c699085e06ce86663ff8c6387025bb2f75820fcddfbafb9ac503"
+  },
+  "interface": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\interface.png",
+    "sha256": "4a1070d781637776d32395774cbf174ecdbbbc32374d22927985ae4983d0314d"
+  },
+  "kitsune-mask": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\kitsune-mask.png",
+    "sha256": "c177d7f2b6892b82261deca4fe71257c2a3bfd4a459ba3b7da5e1ff6028676e7"
+  },
+  "ronin-hat": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\ronin-hat.png",
+    "sha256": "a5e4ffd1b35cd7a2085da55733a4afd0f9a3128dbcb06bcfca1c28ba35632a67"
+  },
+  "andromeda-backpack": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\andromeda-backpack.png",
+    "sha256": "69ca6b2a787d31c221f5f9c44acbbacaf531cd19d99653cf23cabb28769e2604"
+  },
+  "astral-reactor": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\astral-reactor.png",
+    "sha256": "3848e4edfaf74e99f1872d50015bbc236c008afd5e0991f19d1436fa04a494e3"
+  },
+  "obsidian-horns": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\obsidian-horns.png",
+    "sha256": "099ffbcddd7fce2e1c49883682afcbe1d4f340611b6ca98e711b79ebdec7ecec"
+  },
+  "ram-horns": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\ram-horns.png",
+    "sha256": "27f4325ef48b1775eaeb975b059e6998dbd37691ee244d3c68a2fcdefb2388c8"
+  },
+  "visor-headset": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\visor-headset.png",
+    "sha256": "227a748f902ff21bbee50890fbcaa656feed0c802a45c7a6b815b7e7f76e7f50"
+  },
+  "astral-crown": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\astral-crown.png",
+    "sha256": "5cf30f2a50d0d578ca03fdf042d413f49477927f94d88f5da68f0f0148e7dae9"
+  },
+  "crystal-antlers": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\crystal-antlers.png",
+    "sha256": "ec473f56a4c92066a8e5001790c696a5520c2ea5b59d38943841a836fd9f74b5"
+  },
+  "comet-tail": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\comet-tail.png",
+    "sha256": "fe942367982dd6a98d8d0aa3d2bf2d6b738a7edbefb962947f9ea7e6b3168061"
+  },
+  "seraph-0": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\seraph-0.png",
+    "sha256": "244bd6ef8a707087802828ed630b1b9cbf347b8b3f0b60537543180363c1a673"
+  },
+  "seraph-1": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\seraph-1.png",
+    "sha256": "dab3421a5d977c92c1fc3644ca4434e70f9251278410d2a5c4df9d1d306ca4d0"
+  },
+  "seraph-2": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\seraph-2.png",
+    "sha256": "3140f9ddf5cdbaf918fcb460b2743500c9fbbba924e00f4d84d21eb971c51362"
+  },
+  "seraph-3": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\seraph-3.png",
+    "sha256": "5bec77f0737e0afed45511a696d34668b39a20491db1dabc6854a38b777153c0"
+  },
+  "seraph-4": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\seraph-4.png",
+    "sha256": "2375ad4551162c3602edd3bfbd574c48f41ebf73e4885d5f6aa23741130c5659"
+  },
+  "seraph-5": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\seraph-5.png",
+    "sha256": "4ac97d5d1d78c5ea1710bb21224796f69edbf95b0355a21f0335b8441cc08297"
+  },
+  "seraph-6": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\seraph-6.png",
+    "sha256": "57837219afd8365230c930c01aeacc1a03d73669264cbccca8d9ffe792a1c998"
+  },
+  "seraph-7": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\seraph-7.png",
+    "sha256": "7e0ae47c94a8ab4afbf1f3327de933a6b9d8ca1d0b32bec6704096e52926b1fe"
+  },
+  "dragon-0": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\dragon-0.png",
+    "sha256": "02494d46e04d516f80aa5424b9202c12538f7c83c46675191f3dd1c8807ff7a0"
+  },
+  "dragon-1": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\dragon-1.png",
+    "sha256": "4228649b67871e68404b5ef96dd975ba7826a68b17fa2b31710abe9e8c3550ed"
+  },
+  "dragon-2": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\dragon-2.png",
+    "sha256": "13da80742e58d8558bbbb138767bc0881138c0b45a20a5afac92975013aa6870"
+  },
+  "dragon-3": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\dragon-3.png",
+    "sha256": "768a612ec824af6cf49a8303a36f6a7f6373d9a555e913cccdf73fbb28c7e543"
+  },
+  "dragon-4": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\dragon-4.png",
+    "sha256": "add12a339e3f6826af076bf8cacde720e7231e60bf321cd0afb8c2ca13a579d1"
+  },
+  "dragon-5": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\dragon-5.png",
+    "sha256": "5e4a4c21fd61cec8cf3ae15e8970ca886973745461f60cf23e900a483a91f80a"
+  },
+  "dragon-6": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\dragon-6.png",
+    "sha256": "76fef5e5bf3189ceb9fafc2fe77935de6d567108300df0ecba4b4daf05d30ef9"
+  },
+  "dragon-7": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\dragon-7.png",
+    "sha256": "45e8340cfec92172dd981fb807c50a056838f7089e287d44cf676284261e665f"
+  },
+  "crystal-0": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\crystal-0.png",
+    "sha256": "daf81f5fe30f55a60a5d35775ba565706ad72b5f8cfdc9b675968f4b1edeb6f3"
+  },
+  "crystal-1": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\crystal-1.png",
+    "sha256": "d54399e1766bff2a1bea38d6ed93e2164e5222afce227e4b79ffc4ebcb2878c9"
+  },
+  "crystal-2": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\crystal-2.png",
+    "sha256": "9cabc6ebde88739f8991fa4c4c2d300bec9cbcbc4dce9b2b58ef33a7e8a6e1e3"
+  },
+  "crystal-3": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\crystal-3.png",
+    "sha256": "fb0f56f398353be3960ea2f06cee56202ed2b500218ee795f50f62cecd648503"
+  },
+  "crystal-4": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\crystal-4.png",
+    "sha256": "3fade89258b7034ec17697d2b8fcb856c92ad856323cac73e785ac3b436079e6"
+  },
+  "crystal-5": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\crystal-5.png",
+    "sha256": "745fcedd491decb13a935bfcaacf89b6a6dbcf00fc73653c81af49fdcbfb2c54"
+  },
+  "crystal-6": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\crystal-6.png",
+    "sha256": "71aaf4d6f5c569176e8d00c5c81bf3675d12a01715b0b41f26f0de03e1d12cda"
+  },
+  "crystal-7": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\crystal-7.png",
+    "sha256": "de82e95a57f8bd6bcd4ebec37fe1dccd2767e8782b20f2565384e23bba0b51c6"
+  },
+  "mecha-0": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\mecha-0.png",
+    "sha256": "8441046661710fa0eb6173595632ad2316adb05a26adf645ea4d4b22830186fa"
+  },
+  "mecha-1": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\mecha-1.png",
+    "sha256": "15c7a5fae7bceead7a7533564590fa9f9dda8c013e81e13743af5ebec2fa182f"
+  },
+  "mecha-2": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\mecha-2.png",
+    "sha256": "de1ab15a329fda52fd36c0f0d6912bd7e77b6d2ee41893c3080c03f3381de40a"
+  },
+  "mecha-3": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\mecha-3.png",
+    "sha256": "23d804972dc878d84c02f8ca30191caeb401e207b66648ebf1aa3bd05226195b"
+  },
+  "mecha-4": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\mecha-4.png",
+    "sha256": "f36eb60b781bffb391209b236e08b3fb89efac92faaeb3884239cd5a1c56665b"
+  },
+  "mecha-5": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\mecha-5.png",
+    "sha256": "6102d765f66888a489905029fe8042e0468765dd511b8467e4813afe6c222919"
+  },
+  "mecha-6": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\mecha-6.png",
+    "sha256": "80c8f0dfaf117392febb78e41e305479839265d3aee17e7174a078a6bc408ef0"
+  },
+  "mecha-7": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\mecha-7.png",
+    "sha256": "f5d6d408bb6c3a5980c18164a08b878c806226d80f987b32baa7396c9e144c72"
+  },
+  "world": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\winter.png",
+    "sha256": "c804a33c288523e218145a99d47211fe4f95634b48afe88dc0eea4d3e2c96f02"
+  },
+  "hotbar": {
+    "version": "1.2.0",
+    "source": "caelum-visuals\\build\\run\\clientGameTest\\site120-capture\\interface.png",
+    "sha256": "4a1070d781637776d32395774cbf174ecdbbbc32374d22927985ae4983d0314d"
+  },
+  "menu": {
+    "version": "1.2.0",
+    "source": "version120-proof\\0000_andromeda-120-main-menu.png",
+    "sha256": "f2a32d632f58ac70496c90c3f029e65ddbe2b77db1f15db121585b59c99196fb"
+  },
+  "discord": {
+    "version": "1.2.0",
+    "source": "version120-proof\\discord-activity.png",
+    "sha256": "69047445abaec65313243f4cd09c19b9aeac76a34df8dedff55eb177c639a379"
+  }
+}
