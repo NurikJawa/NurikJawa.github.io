@@ -23,3 +23,6 @@ html{background:#090612}body{font-family:Golos,Arial,sans-serif;background:#0906
 @media(prefers-reduced-motion:reduce){.brand-emblem:before{animation:none}.glass-feature,.gallery-shot img,.studio-stage canvas{transition:none}}
 
 @media(max-width:560px){.community-card h2{font-size:clamp(20px,6vw,29px);white-space:nowrap;letter-spacing:-.04em}}
+
+/* Current release downloads */
+.download-options{display:flex;flex-wrap:wrap;gap:12px;margin-top:24px}.download-options .button{font-size:14px;padding:18px 22px}.download-copy .download-status{max-width:520px;line-height:1.75}.checksum-stack{min-width:0;display:grid;gap:22px}.checksum-label{margin:0 0 9px;font-size:13px;color:#d8c3ed}.checksum-stack .hash-field{min-width:0}.checksum-stack code{overflow-wrap:anywhere;word-break:break-all}.closing-actions{flex-wrap:wrap}@media(max-width:600px){.download-options{flex-direction:column}.download-options .button{width:100%;justify-content:center}.checksum-stack .hash-field{padding:14px;gap:10px}}

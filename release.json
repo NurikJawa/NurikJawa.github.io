@@ -3,10 +3,19 @@
   "minecraft": "1.21.11",
   "platform": "Windows x64",
   "filename": "Andromeda.exe",
-  "bytes": 769550336,
-  "sha256": "326180DD34EADAD76DF8D7950A2E3958501392DB196A358148D8F31599C53826",
-  "url": "https://github.com/NurikJawa/andromeda-visuals-releases/releases/download/v1.2.0/Andromeda.exe",
+  "bytes": 770098176,
+  "sha256": "786A20FA47FFFA3DD55A999E183AFD109AA098FFA345AE859B7900226AEBA5E4",
+  "url": "https://github.com/NurikJawa/andromeda-visuals-releases/releases/download/v1.2.0/Andromeda.exe?build=jsonfix-20261025",
   "telegramName": "AndromedaVisuals",
   "telegramUrl": null,
-  "discordUrl": null
+  "discordUrl": null,
+  "mod": {
+    "filename": "andromeda-1.2.0.jar",
+    "bytes": 174867932,
+    "sha256": "222A75915C4C17C60283D210682CBC6A36346568E79581E2CD2A1FA3734BDDC6",
+    "url": "https://github.com/NurikJawa/andromeda-visuals-releases/releases/download/v1.2.0/andromeda-1.2.0.jar?build=jsonfix-20261025"
+  },
+  "build": "1.2.0-jsonfix-20261025",
+  "label": "1.2.0 JSON Fix",
+  "publishedAt": "2026-10-27"
 }

@@ -55,10 +55,11 @@
   const preload=new Image();preload.onload=()=>{if(ticket!==paletteRequest)return;target.src=preload.src;if(!reduced.matches)target.animate([{opacity:.4},{opacity:1}],{duration:350});target.alt=`Seraph Wings в цвете ${name}`;lab.querySelector('[data-palette-name]').textContent=name};preload.onerror=()=>notify('Не удалось загрузить вариант. Попробуй ещё раз.');preload.src=`/assets/v120/seraph-${button.dataset.palette}.webp`;
   document.querySelectorAll('[data-palette]').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button))});
  }));
- document.querySelector('[data-copy]')?.addEventListener('click',async event=>{
+ document.querySelectorAll('[data-copy]').forEach(button=>button.addEventListener('click',async event=>{
   const button=event.currentTarget;const status=button.parentElement.querySelector('.copy-feedback');
   try{await navigator.clipboard.writeText(button.dataset.copy);status.textContent='SHA-256 скопирован';setTimeout(()=>status.textContent='',3000)}
   catch{status.textContent='Выдели и скопируй хэш вручную.'}
- });
+ }));
+ document.querySelector('.download-mod')?.addEventListener('click',()=>notify('Проверь загрузки браузера — там появится andromeda-1.2.0.jar.'));
  document.querySelector('.download-main')?.addEventListener('click',()=>notify('Проверь загрузки браузера — там появится Andromeda.exe.'));
 })();
